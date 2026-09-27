@@ -5,9 +5,9 @@ Software Developer / Architect · AI Agents · C# & React · Cloud Modernization
 ⚡&emsp;[Email:](mailto:csckhw@gmail.com)
 
 <br>
-<br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Thanks for stopping by! I’m always open to new challenges and opportunities. Feel free to reach out!
+<hr>
+Thanks for stopping by! 
+I’m always open to new challenges and opportunities. Feel free to reach out!
 <!--
 **csckhw303/csckhw303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
