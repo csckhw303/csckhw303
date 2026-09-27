@@ -1,4 +1,4 @@
-## Hello👋, This is Seok-Chan 
+## Hello, This is Seok-Chan 👋
 Software Developer / Architect · AI Agents · C# & React · Cloud Modernization
 
 🔗 Connect with Me <br>
