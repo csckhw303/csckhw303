@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello👋, This is Seok-Chan
+Software Developer / Architect · AI Agents · C# & React · Cloud Modernization
 
 <!--
 **csckhw303/csckhw303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
